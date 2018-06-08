@@ -1,0 +1,44 @@
+{
+  "name": "countries-light-mysql",
+  "version": "1.0.0",
+  "description": "Yallah Yallah, Welcome to Country Light App using MySQL. A prototype to play with Countries",
+  "main": "index.js",
+  "homepage": "http://flaven.fr/2018/05/node-api-postman-buid-a-simple-but-complete-rest-api-with-node-tested-with-chai-and-newman-documented-with-apidoc/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bflaven/node-countries-light-app.git"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test/*.js --timeout 15000"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "RestAPI",
+    "Countries",
+    "CRUD",
+    "mysql"
+  ],
+  "author": "bflaven",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "body-parser": "^1.18.3",
+    "chai": "^4.1.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-flash": "0.0.2",
+    "express-myconnection": "^1.0.4",
+    "express-session": "^1.15.6",
+    "express-validator": "^3.2.1",
+    "jsonframe-cheerio": "^3.0.1",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "request": "^2.87.0",
+    "string": "^3.3.3",
+    "supertest": "^3.1.0"
+  }
+}
