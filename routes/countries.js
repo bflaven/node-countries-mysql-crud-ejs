@@ -14,8 +14,6 @@ var app = express()
     * @apiSuccess {String} countries.cca2 Country cca2
     * @apiSuccess {String} countries.capital Country capital
     * @apiSuccess {Number} countries.callingCode Country callingCode
-    * @apiSuccess {Date} countries.createdAt Update's date
-    * @apiSuccess {Date} countries.updatedAt Register's date
     * @apiExample {sql} Example usage:
     *        SELECT * FROM t_countries ORDER BY id DESC
     */
