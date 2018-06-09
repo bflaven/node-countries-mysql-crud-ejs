@@ -132,7 +132,7 @@ For those, you want to get the code directly, you can use the following command.
 
 ```
 $ git clone https://github.com/bflaven/node-countries-mysql-crud-ejs.git
-$ cd node-countries-light-app
+$ cd node-countries-mysql-crud-ejs
 $ npm install
 ```
 
