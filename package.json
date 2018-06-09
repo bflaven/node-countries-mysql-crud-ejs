@@ -6,7 +6,7 @@
   "homepage": "http://flaven.fr/2018/05/node-api-postman-buid-a-simple-but-complete-rest-api-with-node-tested-with-chai-and-newman-documented-with-apidoc/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bflaven/node-countries-light-app.git"
+    "url": "https://github.com/bflaven/node-countries-mysql-crud-ejs.git"
   },
   "scripts": {
     "start": "node app.js",
