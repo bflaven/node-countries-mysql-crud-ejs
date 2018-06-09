@@ -8,8 +8,8 @@ var config = {
 		db: 	  'node_countries' // your database name
 	},
 	server: {
-		host:'127.0.0.1', // the host for database
-		port: '3000'
+		host:'127.0.0.1', // the host for the server
+		port: '3000' // the port for the server
 	}
 }
 
