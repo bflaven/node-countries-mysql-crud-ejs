@@ -81,7 +81,7 @@ describe('ADD COUNTRY', function () {
 
 });// end describe
 
-/* CAUTION this records may not exist in your application  */
+/* CAUTION this records may not exist in your database be sure yo use an existing record /countries/edit/:id  */
 
 describe('EDIT COUNTRY', function () {
 
