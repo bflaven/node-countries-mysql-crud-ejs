@@ -8,7 +8,9 @@
 
 
 ## Node, Express & MySQL: Simple Add, Edit, Delete, View (CRUD)
-Here is a SPA (Single Page Application) based on the previous API presented in the previous post. The idea is to introduce the EJS Templating Engine to expose data to the user. This is a simple and basic CRUD application (Create, Read, Update, Delete) using Node.js, Express, MySQL & EJS Templating Engine. It has also test included made with Cheerio and Documentation (Apidoc)
+Here is a SPA (Single Page Application) based on the previous API presented in the previous post. The idea is to introduce the EJS Templating Engine to expose data to the user. This is a simple and basic CRUD application (Create, Read, Update, Delete) using Node.js, Express, MySQL & EJS Templating Engine. It has also test included made with Cheerio and Documentation (Apidoc).
+
+** The article is available at @ [http://flaven.fr/2018/06/node-express-mysql-crud-create-a-single-page-application-with-node-ejs-and-mysql/](http://flaven.fr/2018/06/node-express-mysql-crud-create-a-single-page-application-with-node-ejs-and-mysql/)**
 
 
 **Creating database and table**
