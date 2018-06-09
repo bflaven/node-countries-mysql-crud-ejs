@@ -121,7 +121,7 @@ __dump_sql/ | This directory contains the Dump of the MySQL Database used by the
 
 
 **3. More information**<br />
-For those, who are looking for more information, a full article is available with additional resources is available @ [flaven.fr](http://flaven.fr/)
+For those, who are looking for more information, a full article is available with additional resources is available @ [flaven.fr](http://flaven.fr/2018/06/node-express-mysql-crud-create-a-single-page-application-with-node-ejs-and-mysql/)
 
 
 ### Clone this repository
